@@ -1,0 +1,15 @@
+<body> 
+ <div class="MastHead" data-role="header" data-position="fixed" data-tap-toggle="false"> 
+  <div class="HeaderLft">
+   <a href="#dashboard" data-transition="slide" data-direction="reverse"><img alt="" title="" src="https://usercentrics.com/wp-content/uploads/2019/12/usercentrics-logo.min_.svg"></a>
+  </div> 
+  <div class="HeaderRgt">
+   <div class="TopRedBox">
+    <a href="#" data-rel="back" data-transition="slide" data-direction="reverse" id="saveFav">Save</a>
+   </div>
+  </div> 
+  <div class="HeaderLogo">
+   LOGO
+  </div> 
+ </div>   
+</body>
