@@ -1,1 +1,10 @@
-<meta name=usercentrics-logo content="https://usercentrics.com/wp-content/uploads/2019/12/usercentrics-logo.min_.svg">
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body style="background-color:#1c87c9;">
+    <h1>Some heading</h1>
+    <p>Some paragraph for example.</p>
+  </body>
+</html>
